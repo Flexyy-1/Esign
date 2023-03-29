@@ -1,0 +1,33 @@
+{
+    "name": "ipafileshack",
+    "identifier": " ",
+    "sourceURL": "t.me/IPA_FILES_HACK",
+    "apps": [
+        {
+            "name": "Tik Tok LRD",
+            "version": "28.4.0 + LRD2.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/TikTok.-.ipafileshack.ipa",
+            "localizedDescription": "TikTok",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "Null's brawl",
+            "version": "48.300",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/brawl48.300i2_6440c85c.2.ipa",
+            "localizedDescription": "Null's brawl",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        }
+
+
+    ]
+}
